@@ -5,8 +5,12 @@ import { Link, Outlet } from "react-router-dom";
 const AboutUs = () => {
   return (
     <div className="about-container">
+<<<<<<< HEAD
       <h2>About Our Electronic Store(vijayawada)</h2>
       <h3>srinivas reddy</h3>
+=======
+      <h2>About Our Electronic Store in vijayawada</h2>
+>>>>>>> ce6fab9b085062bbf05cd438164e76e4fe3d50ce
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
